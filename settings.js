@@ -22,7 +22,7 @@ global.mess = {
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 }
 
-global.owner = [process.env.OWNER_NUMBER] || ['94711453097'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = [process.env.OWNER_NUMBER] || ['94764338173'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 
 module.exports = {    
 SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD:ShavingCindy',
